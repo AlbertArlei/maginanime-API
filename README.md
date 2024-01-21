@@ -1,0 +1,1 @@
+# maginanime-API
